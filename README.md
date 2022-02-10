@@ -1,2 +1,2 @@
-# 大屏开发案例(demo)[https://clearself.github.io/screen/dist/index.html]
+# 大屏开发案例(https://clearself.github.io/screen/dist/index.html)[demo]
 
